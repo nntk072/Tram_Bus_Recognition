@@ -1,1 +1,1 @@
-Remember to clear the output of main.ipynb before uploading the code to Github
+This project will classify the bus and the tram using feature extraction, KNN and SVM model
